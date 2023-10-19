@@ -13,3 +13,10 @@ Cardio Good Fitness (CGF) wants to understand the characteristics of its custome
 2. **Customer Profiling**: Based on the data exploration, define various customer profiles that exhibit different characteristics in their buying patterns.
 
 3. **Insights and Recommendations**: Extract actionable insights from the data that can directly influence sales strategies and decisions. Provide recommendations to drive business growth.
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- You have installed the latest version of analytical software (like Python, R, SPSS, or any other relevant tool).
+- You have a basic understanding of data analysis concepts and methods.
